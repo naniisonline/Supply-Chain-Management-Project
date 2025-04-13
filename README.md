@@ -21,7 +21,7 @@ This project showcases an interactive Power BI dashboard designed to monitor and
 
 ## 📁 File Structure
 
-- `Inventory Dashboard.pbix` – Power BI file with all visuals and calculations.
+Github dooesnt support .pbix format so was not able to upload
 
 ## 💡 Purpose
 
@@ -35,4 +35,5 @@ This dashboard helps stakeholders in making data-driven decisions related to inv
 ## 📬 Contact
 
 For questions or feedback, feel free to reach out!
+nani.pala47@gmail.com
 
