@@ -29,8 +29,8 @@ This dashboard helps stakeholders in making data-driven decisions related to inv
 
 ## 📸 Screenshot
 
-(https://github.com/user-attachments/assets/b3984009-7943-409b-a6d0-209098cb4472)
-.png) <!-- Make sure to rename or place your screenshot file accordingly -->
+![image](https://github.com/user-attachments/assets/b3984009-7943-409b-a6d0-209098cb4472)
+ <!-- Make sure to rename or place your screenshot file accordingly -->
 
 ## 📬 Contact
 
